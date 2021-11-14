@@ -2,7 +2,7 @@
 Website portfolio ini dibangun dengan menggunakan **HTML** dan **Tailwind CSS**.
 
 # Instalasi
-Klik tombol **Clone** yang berwarna hijau
+Klik tombol **Code** yang berwarna hijau
 
 lalu ketikkan pada terminal Anda
 ```sh
